@@ -1,0 +1,14 @@
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\bin\Debug\net10.0\trabajo_DEPORTE.exe
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\bin\Debug\net10.0\trabajo_DEPORTE.deps.json
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\bin\Debug\net10.0\trabajo_DEPORTE.runtimeconfig.json
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\bin\Debug\net10.0\trabajo_DEPORTE.dll
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\bin\Debug\net10.0\trabajo_DEPORTE.pdb
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.AssemblyInfoInputs.cache
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.AssemblyInfo.cs
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.dll
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\refint\trabajo_DEPORTE.dll
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.pdb
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\trabajo_DEPORTE.genruntimeconfig.cache
+C:\Users\GADO\Pictures\trabajo_DEPORTE\trabajo_DEPORTE\obj\Debug\net10.0\ref\trabajo_DEPORTE.dll

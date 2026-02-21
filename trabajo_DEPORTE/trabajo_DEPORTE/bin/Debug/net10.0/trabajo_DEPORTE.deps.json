@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "trabajo_DEPORTE/1.0.0": {
+        "runtime": {
+          "trabajo_DEPORTE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabajo_DEPORTE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
