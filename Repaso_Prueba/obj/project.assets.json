@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GADO\\Pictures\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\Repaso_Prueba.csproj",
+      "projectUniqueName": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\Repaso_Prueba.csproj",
       "projectName": "Repaso_Prueba",
-      "projectPath": "C:\\Users\\GADO\\Pictures\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\Repaso_Prueba.csproj",
+      "projectPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\Repaso_Prueba.csproj",
       "packagesPath": "C:\\Users\\GADO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GADO\\Pictures\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\obj\\",
+      "outputPath": "C:\\Users\\GADO\\Downloads\\DESARROLLO DE SOFTWARE\\carpetacool\\Repaso_Prueba\\Repaso_Prueba\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

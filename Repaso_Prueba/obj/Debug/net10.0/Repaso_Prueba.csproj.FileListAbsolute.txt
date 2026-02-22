@@ -13,3 +13,18 @@ C:\Users\GADO\Pictures\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0
 C:\Users\GADO\Pictures\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.pdb
 C:\Users\GADO\Pictures\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.genruntimeconfig.cache
 C:\Users\GADO\Pictures\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\ref\Repaso_Prueba.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.AssemblyInfoInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.AssemblyInfo.cs
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.csproj.CoreCompileInputs.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.sourcelink.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\refint\Repaso_Prueba.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\bin\Debug\net10.0\Repaso_Prueba.exe
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\bin\Debug\net10.0\Repaso_Prueba.deps.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\bin\Debug\net10.0\Repaso_Prueba.runtimeconfig.json
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\bin\Debug\net10.0\Repaso_Prueba.dll
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\bin\Debug\net10.0\Repaso_Prueba.pdb
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\Repaso_Prueba.genruntimeconfig.cache
+C:\Users\GADO\Downloads\DESARROLLO DE SOFTWARE\carpetacool\Repaso_Prueba\Repaso_Prueba\obj\Debug\net10.0\ref\Repaso_Prueba.dll
